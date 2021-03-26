@@ -2,4 +2,21 @@ body{
 	margin:0;
 	padding: 0;
 	background-image: url("book.jpg");
+	font-family: "Verdana"
+}
+div, form{
+	margin-left: 500px;
+	width: 350px;
+	background-color: #f8f5f5;
+	opacity: 0.7;
+}
+div{
+	margin-top: 110px;
+	height: 50px;
+	text-align: center;
+}
+
+form{
+	height: 350px;
+	margin-top: 20px;
 }
